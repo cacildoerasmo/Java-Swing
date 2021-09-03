@@ -17,9 +17,21 @@ Este é um projecto que realiza CRUD de duas tabelas Estudante e Turma.
 
 # 3 - Apartir desta tela já é possível fazer o CRUD.
 # Listar - Tela Estudante
-![Screenshot (222)](https://user-images.githubusercontent.com/71551874/132043565-9c33b65b-2b48-4046-b9fc-39afa871e8a9.png)
+![Screenshot (222)](https://user-images.githubusercontent.com/71551874/132044139-9343ca76-881c-4467-bd2a-e08fe1d6fc30.png)
 # Listar - Tela Turma
 ![Screenshot (226)](https://user-images.githubusercontent.com/71551874/132043644-5f59b058-db88-43a2-859e-2166c7271da1.png)
+
+# 4 - Realizando a operação eliminar.
+# Eliminar - Tela Estudante
+![Screenshot (224)](https://user-images.githubusercontent.com/71551874/132044275-579e3e39-d9e1-4d72-b338-468cf1b6389b.png)
+# Eliminar - Tela Turma
+![Screenshot (228)](https://user-images.githubusercontent.com/71551874/132044313-875e4901-9c24-430c-8260-4b7c42c8b278.png)
+
+# Desenvolvido por
+ * Cacildo Erasmo Mabunda
+
+Obrigado!
+
 
 
 
