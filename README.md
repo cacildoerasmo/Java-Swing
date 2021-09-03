@@ -27,6 +27,14 @@ Este é um projecto que realiza CRUD de duas tabelas Estudante e Turma.
 # Eliminar - Tela Turma
 ![Screenshot (228)](https://user-images.githubusercontent.com/71551874/132044313-875e4901-9c24-430c-8260-4b7c42c8b278.png)
 
+# 5 - Realizando a operação pesquisa.
+# Pesquisar - Tela Estudante
+![Screenshot (223)](https://user-images.githubusercontent.com/71551874/132044827-dee8b7f1-7798-4305-b22a-fbe376446a23.png)
+# Pesquisar - Tela Turma
+![Screenshot (227)](https://user-images.githubusercontent.com/71551874/132044883-4b931789-862e-4496-86ae-43724ed74993.png)
+
+
+
 # Desenvolvido por
  * Cacildo Erasmo Mabunda
 
