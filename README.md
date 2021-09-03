@@ -36,7 +36,7 @@ Este é um projecto que realiza CRUD de duas tabelas Estudante e Turma.
 
 
 # Desenvolvido por
- * Cacildo Erasmo Mabunda
+ * Cacildo Erasmo
 
 Obrigado!
 
